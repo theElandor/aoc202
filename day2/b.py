@@ -1,20 +1,12 @@
 # took me way to long, I am to tired at 6 am :(
 def check_line(line):
-    if line[0] > line[1]: order = "dec"
-    elif line[0] < line[1]: order = "inc"
-    else: return False
-    for i in range(len(line)-1):
-        if line[i] == line[i+1]:
-            return False
-        elif line[i] > line[i+1] and order == "inc":
-            return False
-        elif line[i] < line[i+1] and order == "dec":
-            return False
-    for i in range(0, len(line)-1):
-        if abs(line[i]-line[i+1]) > 3:
-            return False
-    else:
-        return True
+    if any([x==y for x,y in zip(line[:-1], line[1:])]):
+        return False
+    if (line != sorted(line) and line != sorted(line, reverse=True)):
+        return False
+    diffs = [abs(x-y) for x,y in zip(line[:-1], line[1:])]
+    if any([x > 3 for x in diffs]): return False
+    return True
 
 with open ("input.txt") as f:
     grid = [[int(x) for x in list(y.split())] for y in f.read().splitlines()]
@@ -30,7 +22,6 @@ with open ("input.txt") as f:
         # break
         for line in tests:
             if check_line(line):
-                print(line)
                 safes += 1
                 break
     print(safes)
