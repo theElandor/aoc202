@@ -6,11 +6,6 @@ from copy import deepcopy
 # 6 am hits right in the spot.
 
 filename = sys.argv[1]
-directions = [(1,0),(0,1),(-1,0),(0,-1)]
-def ok(x,y,grid):
-    if x < 0 or x >= len(grid) or y < 0 or y >= len(grid[0]):
-        return False
-    return True
 def topo(G, ordering):
     S = deepcopy(G)    
     g = {x:v for x,v in S.items() if x in ordering}    
@@ -28,7 +23,6 @@ def topo(G, ordering):
             continue
         while len(g[n]) != 0:
             m = g[n].pop()
-            # se m non compare in nessuna lista
             if all(m not in v for k,v in g.items()):
                 S.append(m)
     return L
@@ -65,12 +59,7 @@ with open(filename) as f:
             else:
                 bad.append(order)
                 break
-        else:
-            good.append(order)
     s = 0
-    # for g in good:
-    #     s += g[len(g)//2]
-    # print(s)
     for b in bad:
         t = topo(G,b)
         print(f"{b} --> {t}")

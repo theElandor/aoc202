@@ -1,10 +1,5 @@
 import sys
 filename = sys.argv[1]
-directions = [(1,0),(0,1),(-1,0),(0,-1)]
-def ok(x,y,grid):
-    if x < 0 or x >= len(grid) or y < 0 or y >= len(grid[0]):
-        return False
-    return True
 
 with open(filename) as f:
     data = f.read().split("\n\n")
