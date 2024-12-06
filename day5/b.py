@@ -8,7 +8,7 @@ from copy import deepcopy
 filename = sys.argv[1]
 def topo(G, ordering):
     S = deepcopy(G)    
-    g = {x:v for x,v in S.items() if x in ordering}    
+    g = {x:v for x,v in S.items() if x in ordering}
     source = []
     for k,_ in g.items():
         if all([k not in v for _,v in g.items()]):
