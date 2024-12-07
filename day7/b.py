@@ -1,6 +1,7 @@
 import sys
 import itertools
 filename = sys.argv[1]
+# this thing takes like 10 minutes to run on a normal computer. Be carefull
 with open(filename) as f:
 	ans =0
 	lines = f.read().splitlines()
