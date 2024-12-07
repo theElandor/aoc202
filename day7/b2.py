@@ -4,6 +4,8 @@ sys.setrecursionlimit(1000000)
 # a more elegant recursive solution
 filename = sys.argv[1]
 def solve(target, numbers, index, current):
+	if current > target:
+		return False
 	if current == target:
 		if index == len(numbers):
 			return True
