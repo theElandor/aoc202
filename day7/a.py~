@@ -1,0 +1,9 @@
+import sys
+filename = sys.argv[1]
+with open(filename) as f:
+	lines = f.read().splitlines()
+	for line in lines:
+		data = line.split(":")
+		target = int(data[0])
+		numbers = [int(x) for in data[1].split()]
+		print(target, numbers)
