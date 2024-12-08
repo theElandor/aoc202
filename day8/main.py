@@ -15,8 +15,10 @@ def coeff(a,b): # line gradient function
 	if x1 == x2:
 		return math.inf
 	return (y1-y2)/(x1-x2)
-	
+
 def bfs(i,j,grid, signals): # bfs to compute distances
+	# as the grid has no obstacles, we could have used
+	# just manhattan distance :(
 	Q = deque()
 	Q.append((0,i,j))
 	seen = set((i,j))
