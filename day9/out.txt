@@ -1,0 +1,63 @@
+00...111...2...333.44.5555.6666.777.888899
+found 2 elements 9
+found 2 spaces starting at 2
+copied ['9', '9'], now r is 38
+0099.111...2...333.44.5555.6666.777.8888..
+found 4 elements 8
+found -1 spaces starting at -1
+no space found for block 8, r is 35
+0099.111...2...333.44.5555.6666.777.8888..
+0099.111...2...333.44.5555.6666.777.8888..
+found 3 elements 7
+found 3 spaces starting at 8
+copied ['7', '7', '7'], now r is 30
+0099.1117772...333.44.5555.6666.....8888..
+0099.1117772...333.44.5555.6666.....8888..
+found 4 elements 6
+found -1 spaces starting at -1
+no space found for block 6, r is 26
+0099.1117772...333.44.5555.6666.....8888..
+0099.1117772...333.44.5555.6666.....8888..
+found 4 elements 5
+found -1 spaces starting at -1
+no space found for block 5, r is 21
+0099.1117772...333.44.5555.6666.....8888..
+0099.1117772...333.44.5555.6666.....8888..
+found 2 elements 4
+found 2 spaces starting at 12
+copied ['4', '4'], now r is 17
+0099.111777244.333....5555.6666.....8888..
+0099.111777244.333....5555.6666.....8888..
+found 3 elements 3
+found -1 spaces starting at -1
+no space found for block 3, r is 14
+0099.111777244.333....5555.6666.....8888..
+0099.111777244.333....5555.6666.....8888..
+found 2 elements 4
+found -1 spaces starting at -1
+no space found for block 4, r is 11
+0099.111777244.333....5555.6666.....8888..
+found 1 elements 2
+found 1 spaces starting at 4
+copied ['2'], now r is 9
+00992111777.44.333....5555.6666.....8888..
+found 3 elements 7
+found -1 spaces starting at -1
+no space found for block 7, r is 7
+00992111777.44.333....5555.6666.....8888..
+found 3 elements 1
+found -1 spaces starting at -1
+no space found for block 1, r is 4
+00992111777.44.333....5555.6666.....8888..
+found 1 elements 2
+found -1 spaces starting at -1
+no space found for block 2, r is 3
+00992111777.44.333....5555.6666.....8888..
+found 2 elements 9
+found -1 spaces starting at -1
+no space found for block 9, r is 1
+00992111777.44.333....5555.6666.....8888..
+found 2 elements 0
+found -1 spaces starting at -1
+no space found for block 0, r is -1
+2858
