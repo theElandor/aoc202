@@ -8,15 +8,13 @@ def ok(grid, i, j):
 		return False
 	return True
 	
-def check(grid, i, j, visited):
+def check(grid, i, j):
 	if grid[i][j] == 9:
 		ends.append((i,j))
 	current = grid[i][j]
 	for di, dj in directions:
-		if ok(grid, i+di, j+dj) and grid[i+di][j+dj] == current+1 and (i+di,j+dj) not in visited:
-			visited.add((i+di, j+dj))
-			check(grid, i+di, j+dj, visited)
-			visited.remove((i+di, j+dj)) # just add backtracking :)
+		if ok(grid, i+di, j+dj) and grid[i+di][j+dj] == current+1 and (i+di,j+dj):
+			check(grid, i+di, j+dj)
 			
 				
 filename = sys.argv[1]
@@ -26,7 +24,7 @@ with open(filename) as f:
 	for i in range(len(grid)):
 		for j in range(len(grid[0])):
 			if grid[i][j] == 0:
-				check(grid, i,j, set())
+				check(grid, i,j)
 				total += len(ends)
 				ends.clear()
 	print(total)
