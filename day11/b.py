@@ -1,3 +1,5 @@
+# could have been faster with a recursive solution
+# with memoization
 import sys
 import time
 from collections import deque
