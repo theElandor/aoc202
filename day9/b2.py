@@ -41,7 +41,3 @@ for file_start, file_len, ide in files[::-1]: # for each file from the end
 		final[file_start:file_start+file_len] = [ide]*file_len
 
 ans = sum([i *int(n) for i, n in enumerate(final) if n != "."])
-print(ans)
-
-	
-		
