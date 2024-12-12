@@ -1,0 +1,1364 @@
+In 3.0 2.5
+cannot go 1 0
+In 3.0 2.5
+cannot go 0 1
+In 3.0 2.5
+cannot go -1 0
+In 3.0 2.5
+cannot go 0 -1
+In 1.5 1.0
+cannot go 1 0
+In 1.5 1.0
+cannot go 0 1
+In 1.5 1.0
+cannot go -1 0
+In 1.5 1.0
+cannot go 0 -1
+In 1.0 -0.5
+cannot go 1 0
+In 1.0 -0.5
+cannot go 0 1
+In 1.0 -0.5
+cannot go -1 0
+In 1.0 -0.5
+cannot go 0 -1
+In 2.5 3.0
+cannot go 1 0
+In 2.5 3.0
+cannot go 0 1
+In 2.5 3.0
+cannot go -1 0
+In 2.5 3.0
+cannot go 0 -1
+In 3.5 2.0
+cannot go 1 0
+In 3.5 2.0
+cannot go 0 1
+In 3.5 2.0
+cannot go -1 0
+In 3.5 2.0
+cannot go 0 -1
+In -0.5 2.0
+cannot go 1 0
+In -0.5 2.0
+cannot go 0 1
+In -0.5 2.0
+cannot go -1 0
+In -0.5 2.0
+cannot go 0 -1
+In 1.0 3.5
+cannot go 1 0
+In 1.0 3.5
+cannot go 0 1
+In 1.0 3.5
+cannot go -1 0
+In 1.0 3.5
+cannot go 0 -1
+In 0.0 3.5
+cannot go 0 1
+In 0.0 3.5
+cannot go 0 -1
+In -0.5 0.0
+cannot go 1 0
+In -0.5 1.0
+cannot go 1 0
+In -0.5 1.0
+cannot go 0 1
+In -0.5 1.0
+cannot go -1 0
+In -0.5 1.0
+cannot go 0 -1
+In -0.5 0.0
+cannot go -1 0
+In 1.5 0.0
+cannot go 1 0
+In 1.5 0.0
+cannot go -1 0
+In 1.5 4.0
+cannot go 1 0
+In 1.5 4.0
+cannot go 0 1
+In 1.5 4.0
+cannot go -1 0
+In 1.5 4.0
+cannot go 0 -1
+In 0.0 -0.5
+cannot go 0 1
+In 0.0 -0.5
+cannot go 0 -1
+In 2.5 4.0
+cannot go 1 0
+In 2.5 4.0
+cannot go 0 1
+In 2.5 4.0
+cannot go -1 0
+In 2.5 4.0
+cannot go 0 -1
+In 2.0 1.5
+cannot go 1 0
+In 2.0 1.5
+cannot go 0 1
+In 2.0 1.5
+cannot go -1 0
+In 2.0 1.5
+cannot go 0 -1
+In 3.0 1.5
+cannot go 1 0
+In 3.0 1.5
+cannot go 0 1
+In 3.0 1.5
+cannot go -1 0
+In 3.0 1.5
+cannot go 0 -1
+In 2.0 4.5
+cannot go 1 0
+In 2.0 4.5
+cannot go 0 1
+In 2.0 4.5
+cannot go -1 0
+In 2.0 4.5
+cannot go 0 -1
+In -0.5 3.0
+cannot go 1 0
+In -0.5 3.0
+cannot go 0 1
+In -0.5 3.0
+cannot go -1 0
+In -0.5 3.0
+cannot go 0 -1
+R-->12, 16
+In 1.0 5.5
+cannot go 1 0
+In 1.0 5.5
+cannot go 0 1
+In 1.0 5.5
+cannot go -1 0
+In 1.0 5.5
+cannot go 0 -1
+In 0.0 5.5
+cannot go 0 1
+In 0.0 5.5
+cannot go 0 -1
+In 1.5 4.0
+cannot go 1 0
+In 1.5 4.0
+cannot go 0 1
+In 1.5 4.0
+cannot go -1 0
+In 1.5 4.0
+cannot go 0 -1
+In 1.0 3.5
+cannot go 1 0
+In 1.0 3.5
+cannot go 0 1
+In 1.0 3.5
+cannot go -1 0
+In 1.0 3.5
+cannot go 0 -1
+In -0.5 5.0
+cannot go 1 0
+In -0.5 5.0
+cannot go 0 1
+In -0.5 5.0
+cannot go -1 0
+In -0.5 5.0
+cannot go 0 -1
+In 0.0 3.5
+cannot go 0 1
+In 0.0 3.5
+cannot go 0 -1
+In 1.5 5.0
+cannot go 1 0
+In 1.5 5.0
+cannot go 0 1
+In 1.5 5.0
+cannot go -1 0
+In 1.5 5.0
+cannot go 0 -1
+In -0.5 4.0
+cannot go 1 0
+In -0.5 4.0
+cannot go 0 1
+In -0.5 4.0
+cannot go -1 0
+In -0.5 4.0
+cannot go 0 -1
+I-->4, 7
+In 1.5 8.0
+cannot go 1 0
+In 1.5 8.0
+cannot go 0 1
+In 1.5 8.0
+cannot go -1 0
+In 1.5 8.0
+cannot go 0 -1
+In 3.5 5.0
+cannot go 1 0
+In 3.5 5.0
+cannot go 0 1
+In 3.5 5.0
+cannot go -1 0
+In 3.5 5.0
+cannot go 0 -1
+In 1.0 8.5
+cannot go 1 0
+In 1.0 8.5
+cannot go 0 1
+In 1.0 8.5
+cannot go -1 0
+In 1.0 8.5
+cannot go 0 -1
+In 1.0 5.5
+cannot go 1 0
+In 1.0 5.5
+cannot go 0 1
+In 1.0 5.5
+cannot go -1 0
+In 1.0 5.5
+cannot go 0 -1
+In 0.0 5.5
+cannot go 0 1
+In 0.0 5.5
+cannot go 0 -1
+In 3.0 5.5
+cannot go 1 0
+In 3.0 5.5
+cannot go 0 1
+In 3.0 5.5
+cannot go -1 0
+In 3.0 5.5
+cannot go 0 -1
+In 2.5 6.0
+cannot go 1 0
+In 2.5 6.0
+cannot go 0 1
+In 2.5 6.0
+cannot go -1 0
+In 2.5 6.0
+cannot go 0 -1
+In 5.0 3.5
+cannot go 1 0
+In 5.0 3.5
+cannot go 0 1
+In 5.0 3.5
+cannot go -1 0
+In 5.0 3.5
+cannot go 0 -1
+In 4.0 4.5
+cannot go 1 0
+In 4.0 4.5
+cannot go 0 1
+In 4.0 4.5
+cannot go -1 0
+In 4.0 4.5
+cannot go 0 -1
+In -0.5 6.0
+cannot go 1 0
+In -0.5 6.0
+cannot go 0 1
+In -0.5 6.0
+cannot go -1 0
+In -0.5 6.0
+cannot go 0 -1
+In 1.5 7.0
+cannot go 1 0
+In 1.5 7.0
+cannot go 0 1
+In 1.5 7.0
+cannot go -1 0
+In 1.5 7.0
+cannot go 0 -1
+In 6.0 4.5
+cannot go 1 0
+In 6.0 4.5
+cannot go 0 1
+In 6.0 4.5
+cannot go -1 0
+In 6.0 4.5
+cannot go 0 -1
+In 6.5 5.0
+cannot go 1 0
+In 6.5 5.0
+cannot go 0 1
+In 6.5 5.0
+cannot go -1 0
+In 6.5 5.0
+cannot go 0 -1
+In 4.5 5.0
+cannot go 1 0
+In 4.5 5.0
+cannot go 0 1
+In 4.5 5.0
+cannot go -1 0
+In 4.5 5.0
+cannot go 0 -1
+In 2.0 4.5
+cannot go 1 0
+In 2.0 4.5
+cannot go 0 1
+In 2.0 4.5
+cannot go -1 0
+In 2.0 4.5
+cannot go 0 -1
+In 3.5 3.0
+cannot go 1 0
+In 3.5 3.0
+cannot go 0 1
+In 3.5 3.0
+cannot go -1 0
+In 3.5 3.0
+cannot go 0 -1
+In 5.5 4.0
+cannot go 1 0
+In 5.5 4.0
+cannot go 0 1
+In 5.5 4.0
+cannot go -1 0
+In 5.5 4.0
+cannot go 0 -1
+In 0.0 7.5
+cannot go 0 1
+In 0.0 7.5
+cannot go 0 -1
+In 2.5 4.0
+cannot go 1 0
+In 2.5 4.0
+cannot go 0 1
+In 2.5 4.0
+cannot go -1 0
+In 2.5 4.0
+cannot go 0 -1
+In 1.5 5.0
+cannot go 1 0
+In 1.5 5.0
+cannot go 0 1
+In 1.5 5.0
+cannot go -1 0
+In 1.5 5.0
+cannot go 0 -1
+In 2.0 6.5
+cannot go 1 0
+In 2.0 6.5
+cannot go 0 1
+In 2.0 6.5
+cannot go -1 0
+In 2.0 6.5
+cannot go 0 -1
+In 5.0 5.5
+cannot go 1 0
+In 5.0 5.5
+cannot go 0 1
+In 5.0 5.5
+cannot go -1 0
+In 5.0 5.5
+cannot go 0 -1
+In 0.5 8.0
+cannot go 1 0
+In 0.5 8.0
+cannot go 0 1
+In 0.5 8.0
+cannot go -1 0
+In 0.5 8.0
+cannot go 0 -1
+In 2.5 3.0
+cannot go 1 0
+In 2.5 3.0
+cannot go 0 1
+In 2.5 3.0
+cannot go -1 0
+In 2.5 3.0
+cannot go 0 -1
+In 3.0 2.5
+cannot go 1 0
+In 3.0 2.5
+cannot go 0 1
+In 3.0 2.5
+cannot go -1 0
+In 3.0 2.5
+cannot go 0 -1
+In 6.0 5.5
+cannot go 1 0
+In 6.0 5.5
+cannot go 0 1
+In 6.0 5.5
+cannot go -1 0
+In 6.0 5.5
+cannot go 0 -1
+In 4.0 3.5
+cannot go 1 0
+In 4.0 3.5
+cannot go 0 1
+In 4.0 3.5
+cannot go -1 0
+In 4.0 3.5
+cannot go 0 -1
+In -0.5 7.0
+cannot go 1 0
+In -0.5 7.0
+cannot go 0 1
+In -0.5 7.0
+cannot go -1 0
+In -0.5 7.0
+cannot go 0 -1
+C-->14, 27
+In 4.0 7.5
+cannot go 1 0
+In 4.0 7.5
+cannot go 0 1
+In 4.0 7.5
+cannot go -1 0
+In 4.0 7.5
+cannot go 0 -1
+In 1.0 9.5
+cannot go 1 0
+In 1.0 9.5
+cannot go 0 1
+In 1.0 9.5
+cannot go -1 0
+In 1.0 9.5
+cannot go 0 -1
+In 1.5 8.0
+cannot go 1 0
+In 1.5 8.0
+cannot go 0 1
+In 1.5 8.0
+cannot go -1 0
+In 1.5 8.0
+cannot go 0 -1
+In 2.0 6.5
+cannot go 1 0
+In 2.0 6.5
+cannot go 0 1
+In 2.0 6.5
+cannot go -1 0
+In 2.0 6.5
+cannot go 0 -1
+In -0.5 8.0
+cannot go 1 0
+In -0.5 8.0
+cannot go 0 1
+In -0.5 8.0
+cannot go -1 0
+In -0.5 8.0
+cannot go 0 -1
+In 1.0 8.5
+cannot go 1 0
+In 1.0 8.5
+cannot go 0 1
+In 1.0 8.5
+cannot go -1 0
+In 1.0 8.5
+cannot go 0 -1
+In 4.0 8.5
+cannot go 1 0
+In 4.0 8.5
+cannot go 0 1
+In 4.0 8.5
+cannot go -1 0
+In 4.0 8.5
+cannot go 0 -1
+In 2.0 9.5
+cannot go 1 0
+In 2.0 9.5
+cannot go 0 1
+In 2.0 9.5
+cannot go -1 0
+In 2.0 9.5
+cannot go 0 -1
+In 0.0 9.5
+cannot go 0 1
+In 0.0 9.5
+cannot go 0 -1
+In 3.5 7.0
+cannot go 1 0
+In 3.5 7.0
+cannot go 0 1
+In 3.5 7.0
+cannot go -1 0
+In 3.5 7.0
+cannot go 0 -1
+In 3.0 9.5
+cannot go 1 0
+In 3.0 9.5
+cannot go 0 1
+In 3.0 9.5
+cannot go -1 0
+In 3.0 9.5
+cannot go 0 -1
+In 4.5 8.0
+cannot go 1 0
+In 4.5 8.0
+cannot go 0 1
+In 4.5 8.0
+cannot go -1 0
+In 4.5 8.0
+cannot go 0 -1
+In 1.5 7.0
+cannot go 1 0
+In 1.5 7.0
+cannot go 0 1
+In 1.5 7.0
+cannot go -1 0
+In 1.5 7.0
+cannot go 0 -1
+In 0.0 7.5
+cannot go 0 1
+In 0.0 7.5
+cannot go 0 -1
+In -0.5 9.0
+cannot go 1 0
+In -0.5 9.0
+cannot go 0 1
+In -0.5 9.0
+cannot go -1 0
+In -0.5 9.0
+cannot go 0 -1
+In 3.5 9.0
+cannot go 1 0
+In 3.5 9.0
+cannot go 0 1
+In 3.5 9.0
+cannot go -1 0
+In 3.5 9.0
+cannot go 0 -1
+In 3.0 6.5
+cannot go 1 0
+In 3.0 6.5
+cannot go 0 1
+In 3.0 6.5
+cannot go -1 0
+In 3.0 6.5
+cannot go 0 -1
+In 0.5 8.0
+cannot go 1 0
+In 0.5 8.0
+cannot go 0 1
+In 0.5 8.0
+cannot go -1 0
+In 0.5 8.0
+cannot go 0 -1
+F-->10, 18
+In 6.5 1.0
+cannot go 1 0
+In 6.5 1.0
+cannot go 0 1
+In 6.5 1.0
+cannot go -1 0
+In 6.5 1.0
+cannot go 0 -1
+In 3.5 3.0
+cannot go 1 0
+In 3.5 3.0
+cannot go 0 1
+In 3.5 3.0
+cannot go -1 0
+In 3.5 3.0
+cannot go 0 -1
+In 6.5 0.0
+cannot go 1 0
+In 6.5 0.0
+cannot go -1 0
+In 6.0 1.5
+cannot go 1 0
+In 6.0 1.5
+cannot go 0 1
+In 6.0 1.5
+cannot go -1 0
+In 6.0 1.5
+cannot go 0 -1
+In 5.0 2.5
+cannot go 1 0
+In 5.0 2.5
+cannot go 0 1
+In 5.0 2.5
+cannot go -1 0
+In 5.0 2.5
+cannot go 0 -1
+In 5.5 3.0
+cannot go 1 0
+In 5.5 3.0
+cannot go 0 1
+In 5.5 3.0
+cannot go -1 0
+In 5.5 3.0
+cannot go 0 -1
+In 6.0 -0.5
+cannot go 1 0
+In 6.0 -0.5
+cannot go 0 1
+In 6.0 -0.5
+cannot go -1 0
+In 6.0 -0.5
+cannot go 0 -1
+In 3.0 -0.5
+cannot go 1 0
+In 3.0 -0.5
+cannot go 0 1
+In 3.0 -0.5
+cannot go -1 0
+In 3.0 -0.5
+cannot go 0 -1
+In 3.0 1.5
+cannot go 1 0
+In 3.0 1.5
+cannot go 0 1
+In 3.0 1.5
+cannot go -1 0
+In 3.0 1.5
+cannot go 0 -1
+In 4.0 -0.5
+cannot go 1 0
+In 4.0 -0.5
+cannot go 0 1
+In 4.0 -0.5
+cannot go -1 0
+In 4.0 -0.5
+cannot go 0 -1
+In 4.5 2.0
+cannot go 1 0
+In 4.5 2.0
+cannot go 0 1
+In 4.5 2.0
+cannot go -1 0
+In 4.5 2.0
+cannot go 0 -1
+In 3.5 2.0
+cannot go 1 0
+In 3.5 2.0
+cannot go 0 1
+In 3.5 2.0
+cannot go -1 0
+In 3.5 2.0
+cannot go 0 -1
+In 5.0 3.5
+cannot go 1 0
+In 5.0 3.5
+cannot go 0 1
+In 5.0 3.5
+cannot go -1 0
+In 5.0 3.5
+cannot go 0 -1
+In 4.0 3.5
+cannot go 1 0
+In 4.0 3.5
+cannot go 0 1
+In 4.0 3.5
+cannot go -1 0
+In 4.0 3.5
+cannot go 0 -1
+In 2.0 -0.5
+cannot go 1 0
+In 2.0 -0.5
+cannot go 0 1
+In 2.0 -0.5
+cannot go -1 0
+In 2.0 -0.5
+cannot go 0 -1
+In 1.5 0.0
+cannot go 1 0
+In 1.5 1.0
+cannot go 1 0
+In 1.5 1.0
+cannot go 0 1
+In 1.5 1.0
+cannot go -1 0
+In 1.5 1.0
+cannot go 0 -1
+In 1.5 0.0
+cannot go -1 0
+In 5.0 -0.5
+cannot go 1 0
+In 5.0 -0.5
+cannot go 0 1
+In 5.0 -0.5
+cannot go -1 0
+In 5.0 -0.5
+cannot go 0 -1
+In 5.0 1.5
+cannot go 1 0
+In 5.0 1.5
+cannot go 0 1
+In 5.0 1.5
+cannot go -1 0
+In 5.0 1.5
+cannot go 0 -1
+In 2.0 1.5
+cannot go 1 0
+In 2.0 1.5
+cannot go 0 1
+In 2.0 1.5
+cannot go -1 0
+In 2.0 1.5
+cannot go 0 -1
+V-->13, 19
+In 4.0 6.5
+cannot go 1 0
+In 4.0 6.5
+cannot go 0 1
+In 4.0 6.5
+cannot go -1 0
+In 4.0 6.5
+cannot go 0 -1
+In 7.0 5.5
+cannot go 1 0
+In 7.0 5.5
+cannot go 0 1
+In 7.0 5.5
+cannot go -1 0
+In 7.0 5.5
+cannot go 0 -1
+In 4.5 7.0
+cannot go 1 0
+In 4.5 7.0
+cannot go 0 1
+In 4.5 7.0
+cannot go -1 0
+In 4.5 7.0
+cannot go 0 -1
+In 7.5 7.0
+cannot go 1 0
+In 7.5 7.0
+cannot go 0 1
+In 7.5 7.0
+cannot go -1 0
+In 7.5 7.0
+cannot go 0 -1
+In 9.5 6.0
+cannot go 1 0
+In 9.5 6.0
+cannot go 0 1
+In 9.5 6.0
+cannot go -1 0
+In 9.5 6.0
+cannot go 0 -1
+In 8.0 5.5
+cannot go 1 0
+In 8.0 5.5
+cannot go 0 1
+In 8.0 5.5
+cannot go -1 0
+In 8.0 5.5
+cannot go 0 -1
+In 4.5 5.0
+cannot go 1 0
+In 4.5 5.0
+cannot go 0 1
+In 4.5 5.0
+cannot go -1 0
+In 4.5 5.0
+cannot go 0 -1
+In 8.0 6.5
+cannot go 1 0
+In 8.0 6.5
+cannot go 0 1
+In 8.0 6.5
+cannot go -1 0
+In 8.0 6.5
+cannot go 0 -1
+In 3.5 5.0
+cannot go 1 0
+In 3.5 5.0
+cannot go 0 1
+In 3.5 5.0
+cannot go -1 0
+In 3.5 5.0
+cannot go 0 -1
+In 6.0 5.5
+cannot go 1 0
+In 6.0 5.5
+cannot go 0 1
+In 6.0 5.5
+cannot go -1 0
+In 6.0 5.5
+cannot go 0 -1
+In 3.0 5.5
+cannot go 1 0
+In 3.0 5.5
+cannot go 0 1
+In 3.0 5.5
+cannot go -1 0
+In 3.0 5.5
+cannot go 0 -1
+In 5.0 7.5
+cannot go 1 0
+In 5.0 7.5
+cannot go 0 1
+In 5.0 7.5
+cannot go -1 0
+In 5.0 7.5
+cannot go 0 -1
+In 5.0 5.5
+cannot go 1 0
+In 5.0 5.5
+cannot go 0 1
+In 5.0 5.5
+cannot go -1 0
+In 5.0 5.5
+cannot go 0 -1
+In 7.0 7.5
+cannot go 1 0
+In 7.0 7.5
+cannot go 0 1
+In 7.0 7.5
+cannot go -1 0
+In 7.0 7.5
+cannot go 0 -1
+In 3.0 6.5
+cannot go 1 0
+In 3.0 6.5
+cannot go 0 1
+In 3.0 6.5
+cannot go -1 0
+In 3.0 6.5
+cannot go 0 -1
+In 2.5 6.0
+cannot go 1 0
+In 2.5 6.0
+cannot go 0 1
+In 2.5 6.0
+cannot go -1 0
+In 2.5 6.0
+cannot go 0 -1
+In 9.0 6.5
+cannot go 1 0
+In 9.0 6.5
+cannot go 0 1
+In 9.0 6.5
+cannot go -1 0
+In 9.0 6.5
+cannot go 0 -1
+In 4.0 4.5
+cannot go 1 0
+In 4.0 4.5
+cannot go 0 1
+In 4.0 4.5
+cannot go -1 0
+In 4.0 4.5
+cannot go 0 -1
+In 6.0 7.5
+cannot go 1 0
+In 6.0 7.5
+cannot go 0 1
+In 6.0 7.5
+cannot go -1 0
+In 6.0 7.5
+cannot go 0 -1
+In 9.0 5.5
+cannot go 1 0
+In 9.0 5.5
+cannot go 0 1
+In 9.0 5.5
+cannot go -1 0
+In 9.0 5.5
+cannot go 0 -1
+J-->11, 20
+In 4.0 6.5
+cannot go 1 0
+In 4.0 6.5
+cannot go 0 1
+In 4.0 6.5
+cannot go -1 0
+In 4.0 6.5
+cannot go 0 -1
+In 4.5 7.0
+cannot go 1 0
+In 4.5 7.0
+cannot go 0 1
+In 4.5 7.0
+cannot go -1 0
+In 4.5 7.0
+cannot go 0 -1
+In 3.5 7.0
+cannot go 1 0
+In 3.5 7.0
+cannot go 0 1
+In 3.5 7.0
+cannot go -1 0
+In 3.5 7.0
+cannot go 0 -1
+In 4.0 7.5
+cannot go 1 0
+In 4.0 7.5
+cannot go 0 1
+In 4.0 7.5
+cannot go -1 0
+In 4.0 7.5
+cannot go 0 -1
+C-->1, 4
+In 4.0 9.5
+cannot go 1 0
+In 4.0 9.5
+cannot go 0 1
+In 4.0 9.5
+cannot go -1 0
+In 4.0 9.5
+cannot go 0 -1
+In 8.0 6.5
+cannot go 1 0
+In 8.0 6.5
+cannot go 0 1
+In 8.0 6.5
+cannot go -1 0
+In 8.0 6.5
+cannot go 0 -1
+In 4.5 8.0
+cannot go 1 0
+In 4.5 8.0
+cannot go 0 1
+In 4.5 8.0
+cannot go -1 0
+In 4.5 8.0
+cannot go 0 -1
+In 9.0 6.5
+cannot go 1 0
+In 9.0 6.5
+cannot go 0 1
+In 9.0 6.5
+cannot go -1 0
+In 9.0 6.5
+cannot go 0 -1
+In 5.0 9.5
+cannot go 1 0
+In 5.0 9.5
+cannot go 0 1
+In 5.0 9.5
+cannot go -1 0
+In 5.0 9.5
+cannot go 0 -1
+In 9.5 8.0
+cannot go 1 0
+In 9.5 8.0
+cannot go 0 1
+In 9.5 8.0
+cannot go -1 0
+In 9.5 8.0
+cannot go 0 -1
+In 9.5 7.0
+cannot go 1 0
+In 9.5 7.0
+cannot go 0 1
+In 9.5 7.0
+cannot go -1 0
+In 9.5 7.0
+cannot go 0 -1
+In 6.0 9.5
+cannot go 1 0
+In 6.0 9.5
+cannot go 0 1
+In 6.0 9.5
+cannot go -1 0
+In 6.0 9.5
+cannot go 0 -1
+In 4.0 8.5
+cannot go 1 0
+In 4.0 8.5
+cannot go 0 1
+In 4.0 8.5
+cannot go -1 0
+In 4.0 8.5
+cannot go 0 -1
+In 9.5 9.0
+cannot go 1 0
+In 9.5 9.0
+cannot go 0 1
+In 9.5 9.0
+cannot go -1 0
+In 9.5 9.0
+cannot go 0 -1
+In 5.0 7.5
+cannot go 1 0
+In 5.0 7.5
+cannot go 0 1
+In 5.0 7.5
+cannot go -1 0
+In 5.0 7.5
+cannot go 0 -1
+In 7.5 7.0
+cannot go 1 0
+In 7.5 7.0
+cannot go 0 1
+In 7.5 7.0
+cannot go -1 0
+In 7.5 7.0
+cannot go 0 -1
+In 8.0 9.5
+cannot go 1 0
+In 8.0 9.5
+cannot go 0 1
+In 8.0 9.5
+cannot go -1 0
+In 8.0 9.5
+cannot go 0 -1
+In 6.0 7.5
+cannot go 1 0
+In 6.0 7.5
+cannot go 0 1
+In 6.0 7.5
+cannot go -1 0
+In 6.0 7.5
+cannot go 0 -1
+In 9.0 9.5
+cannot go 1 0
+In 9.0 9.5
+cannot go 0 1
+In 9.0 9.5
+cannot go -1 0
+In 9.0 9.5
+cannot go 0 -1
+In 7.0 9.5
+cannot go 1 0
+In 7.0 9.5
+cannot go 0 1
+In 7.0 9.5
+cannot go -1 0
+In 7.0 9.5
+cannot go 0 -1
+In 7.0 7.5
+cannot go 1 0
+In 7.0 7.5
+cannot go 0 1
+In 7.0 7.5
+cannot go -1 0
+In 7.0 7.5
+cannot go 0 -1
+In 3.5 9.0
+cannot go 1 0
+In 3.5 9.0
+cannot go 0 1
+In 3.5 9.0
+cannot go -1 0
+In 3.5 9.0
+cannot go 0 -1
+E-->13, 18
+In 4.5 2.0
+cannot go 1 0
+In 4.5 2.0
+cannot go 0 1
+In 4.5 2.0
+cannot go -1 0
+In 4.5 2.0
+cannot go 0 -1
+In 8.5 2.0
+cannot go 1 0
+In 8.5 2.0
+cannot go 0 1
+In 8.5 2.0
+cannot go -1 0
+In 8.5 2.0
+cannot go 0 -1
+In 9.0 3.5
+cannot go 1 0
+In 9.0 3.5
+cannot go 0 1
+In 9.0 3.5
+cannot go -1 0
+In 9.0 3.5
+cannot go 0 -1
+In 6.0 4.5
+cannot go 1 0
+In 6.0 4.5
+cannot go 0 1
+In 6.0 4.5
+cannot go -1 0
+In 6.0 4.5
+cannot go 0 -1
+In 8.0 3.5
+cannot go 1 0
+In 8.0 3.5
+cannot go 0 1
+In 8.0 3.5
+cannot go -1 0
+In 8.0 3.5
+cannot go 0 -1
+In 7.5 4.0
+cannot go 1 0
+In 7.5 4.0
+cannot go 0 1
+In 7.5 4.0
+cannot go -1 0
+In 7.5 4.0
+cannot go 0 -1
+In 8.0 0.5
+cannot go 1 0
+In 8.0 0.5
+cannot go 0 1
+In 8.0 0.5
+cannot go -1 0
+In 8.0 0.5
+cannot go 0 -1
+In 9.5 3.0
+cannot go 1 0
+In 9.5 3.0
+cannot go 0 1
+In 9.5 3.0
+cannot go -1 0
+In 9.5 3.0
+cannot go 0 -1
+In 8.5 5.0
+cannot go 1 0
+In 8.5 5.0
+cannot go 0 1
+In 8.5 5.0
+cannot go -1 0
+In 8.5 5.0
+cannot go 0 -1
+In 5.0 1.5
+cannot go 1 0
+In 5.0 1.5
+cannot go 0 1
+In 5.0 1.5
+cannot go -1 0
+In 5.0 1.5
+cannot go 0 -1
+In 5.0 2.5
+cannot go 1 0
+In 5.0 2.5
+cannot go 0 1
+In 5.0 2.5
+cannot go -1 0
+In 5.0 2.5
+cannot go 0 -1
+In 8.5 1.0
+cannot go 1 0
+In 8.5 1.0
+cannot go 0 1
+In 8.5 1.0
+cannot go -1 0
+In 8.5 1.0
+cannot go 0 -1
+In 6.0 1.5
+cannot go 1 0
+In 6.0 1.5
+cannot go 0 1
+In 6.0 1.5
+cannot go -1 0
+In 6.0 1.5
+cannot go 0 -1
+In 6.5 5.0
+cannot go 1 0
+In 6.5 5.0
+cannot go 0 1
+In 6.5 5.0
+cannot go -1 0
+In 6.5 5.0
+cannot go 0 -1
+In 7.0 0.5
+cannot go 1 0
+In 7.0 0.5
+cannot go 0 1
+In 7.0 0.5
+cannot go -1 0
+In 7.0 0.5
+cannot go 0 -1
+In 9.0 2.5
+cannot go 1 0
+In 9.0 2.5
+cannot go 0 1
+In 9.0 2.5
+cannot go -1 0
+In 9.0 2.5
+cannot go 0 -1
+In 5.5 4.0
+cannot go 1 0
+In 5.5 4.0
+cannot go 0 1
+In 5.5 4.0
+cannot go -1 0
+In 5.5 4.0
+cannot go 0 -1
+In 6.5 1.0
+cannot go 1 0
+In 6.5 1.0
+cannot go 0 1
+In 6.5 1.0
+cannot go -1 0
+In 6.5 1.0
+cannot go 0 -1
+In 8.0 5.5
+cannot go 1 0
+In 8.0 5.5
+cannot go 0 1
+In 8.0 5.5
+cannot go -1 0
+In 8.0 5.5
+cannot go 0 -1
+In 8.0 4.5
+cannot go 1 0
+In 8.0 4.5
+cannot go 0 1
+In 8.0 4.5
+cannot go -1 0
+In 8.0 4.5
+cannot go 0 -1
+In 5.5 3.0
+cannot go 1 0
+In 5.5 3.0
+cannot go 0 1
+In 5.5 3.0
+cannot go -1 0
+In 5.5 3.0
+cannot go 0 -1
+In 7.0 5.5
+cannot go 1 0
+In 7.0 5.5
+cannot go 0 1
+In 7.0 5.5
+cannot go -1 0
+In 7.0 5.5
+cannot go 0 -1
+I-->14, 22
+In 9.5 0.0
+cannot go 1 0
+In 9.5 1.0
+cannot go 1 0
+In 9.5 1.0
+cannot go 0 1
+In 9.5 1.0
+cannot go -1 0
+In 9.5 1.0
+cannot go 0 -1
+In 9.5 0.0
+cannot go -1 0
+In 8.5 1.0
+cannot go 1 0
+In 8.5 1.0
+cannot go 0 1
+In 8.5 1.0
+cannot go -1 0
+In 8.5 1.0
+cannot go 0 -1
+In 8.0 0.5
+cannot go 1 0
+In 8.0 0.5
+cannot go 0 1
+In 8.0 0.5
+cannot go -1 0
+In 8.0 0.5
+cannot go 0 -1
+In 9.5 2.0
+cannot go 1 0
+In 9.5 2.0
+cannot go 0 1
+In 9.5 2.0
+cannot go -1 0
+In 9.5 2.0
+cannot go 0 -1
+In 7.0 -0.5
+cannot go 1 0
+In 7.0 -0.5
+cannot go 0 1
+In 7.0 -0.5
+cannot go -1 0
+In 7.0 -0.5
+cannot go 0 -1
+In 8.0 -0.5
+cannot go 1 0
+In 8.0 -0.5
+cannot go 0 1
+In 8.0 -0.5
+cannot go -1 0
+In 8.0 -0.5
+cannot go 0 -1
+In 8.5 2.0
+cannot go 1 0
+In 8.5 2.0
+cannot go 0 1
+In 8.5 2.0
+cannot go -1 0
+In 8.5 2.0
+cannot go 0 -1
+In 9.0 2.5
+cannot go 1 0
+In 9.0 2.5
+cannot go 0 1
+In 9.0 2.5
+cannot go -1 0
+In 9.0 2.5
+cannot go 0 -1
+In 7.0 0.5
+cannot go 1 0
+In 7.0 0.5
+cannot go 0 1
+In 7.0 0.5
+cannot go -1 0
+In 7.0 0.5
+cannot go 0 -1
+In 9.0 -0.5
+cannot go 1 0
+In 9.0 -0.5
+cannot go 0 1
+In 9.0 -0.5
+cannot go -1 0
+In 9.0 -0.5
+cannot go 0 -1
+In 6.5 0.0
+cannot go 1 0
+In 6.5 0.0
+cannot go -1 0
+M-->5, 11
+In 8.0 4.5
+cannot go 1 0
+In 8.0 4.5
+cannot go 0 1
+In 8.0 4.5
+cannot go -1 0
+In 8.0 4.5
+cannot go 0 -1
+In 8.5 5.0
+cannot go 1 0
+In 8.5 5.0
+cannot go 0 1
+In 8.5 5.0
+cannot go -1 0
+In 8.5 5.0
+cannot go 0 -1
+In 9.0 5.5
+cannot go 1 0
+In 9.0 5.5
+cannot go 0 1
+In 9.0 5.5
+cannot go -1 0
+In 9.0 5.5
+cannot go 0 -1
+In 9.0 3.5
+cannot go 1 0
+In 9.0 3.5
+cannot go 0 1
+In 9.0 3.5
+cannot go -1 0
+In 9.0 3.5
+cannot go 0 -1
+In 9.5 4.0
+cannot go 1 0
+In 9.5 4.0
+cannot go 0 1
+In 9.5 4.0
+cannot go -1 0
+In 9.5 4.0
+cannot go 0 -1
+In 8.0 3.5
+cannot go 1 0
+In 8.0 3.5
+cannot go 0 1
+In 8.0 3.5
+cannot go -1 0
+In 8.0 3.5
+cannot go 0 -1
+In 7.5 4.0
+cannot go 1 0
+In 7.5 4.0
+cannot go 0 1
+In 7.5 4.0
+cannot go -1 0
+In 7.5 4.0
+cannot go 0 -1
+In 9.5 5.0
+cannot go 1 0
+In 9.5 5.0
+cannot go 0 1
+In 9.5 5.0
+cannot go -1 0
+In 9.5 5.0
+cannot go 0 -1
+S-->3, 8
+1870

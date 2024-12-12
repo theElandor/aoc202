@@ -1,0 +1,13 @@
+				# compute fences
+				fences = 0
+				print(marked)
+				while marked:
+					si,sj = random.sample(marked, 1)[0]
+					marked.remove((si,sj))
+					lines(si,sj,marked)
+					fences += 1
+				print(f"{current}-->{area}, {fences//2}")
+				total += (fences//2)*area
+				g = [0,0]
+			bseen.clear()
+	print(total)
