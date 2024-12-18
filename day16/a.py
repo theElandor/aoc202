@@ -30,5 +30,4 @@ with open(filename) as f:
 		di, dj = directions[facing]
 		if i+di in range(m) and j+dj in range(n) and grid[i+di][j+dj] != "#" and (facing, i+di,j+dj) not in seen:
 			heappush(Q,(distance+1, facing, i+di, j+dj))
-		
-		
+	
