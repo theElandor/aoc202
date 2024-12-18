@@ -1,0 +1,14 @@
+Program: 2,4,1,2,7,5,4,5,0,3,1,7,5,5,3,0
+------------------------------ b considers only last 3 bits of a
+b = a % 8
+------------------------------ do some stuff and don't overwrite a
+b = b ^ 2
+c = a >> b
+b = b ^ c
+b = b ^ 7
+----------------------------------- drop last 3 bits of a
+a = a >> 3
+-----------------------------------
+out(b%8) # print last 3 bits of b
+jto(0) if a != 0
+
