@@ -7,6 +7,11 @@ filename = sys.argv[1]
 # spent a ton of time on a more difficult approach.
 # Should think more before trying to solve the problem in a fancy way.
 # There is always a easier way to do stuff.
+# the problem here is that I've missread the problem: there is actually a SINGLE POSSIBLE PATH
+# from the start to the end. This means that at any point we visit, we are sure that we can
+# reach the end from there. There are no "dead ends" let's say.
+# So basically the shortest path from the start to the end is equal to the number of "." + 1 :)
+# Lesso learned: for hard problems, read the problem statement carefully!
 def bfs(start, end, grid):
 	x,y = start
 	m = len(grid)
@@ -51,7 +56,6 @@ def search(start, end, grid, dists):
 	saved = []
 	for i in range(m):
 		for j in range(n):
-			print(i,j)
 			current = dists[i][j]
 			if grid[i][j] == "#" or current == math.inf: continue
 			for di in range(-20, 21):
@@ -70,15 +74,20 @@ with open(filename) as f:
 	grid = [list(x) for x in f.read().splitlines()]
 	m = len(grid)
 	n = len(grid[0])
+	short = 0
 	for i in range(m):
 		for j in range(n):
 			if grid[i][j] == "S":
 				start = (i,j)
 			elif grid[i][j] == "E":
 				end = (i,j)
+				short += 1
+			elif grid[i][j] == ".":
+				short += 1				
 	x,y = start
 	xe,ye = end
 	dists = bfs(start, end, grid)
+	print(f"short short: {short}")
 	sp = dists[xe][ye]
 	print(f"Shortest path {sp}")
 	print(dists)
