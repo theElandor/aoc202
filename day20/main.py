@@ -11,7 +11,8 @@ filename = sys.argv[1]
 # from the start to the end. This means that at any point we visit, we are sure that we can
 # reach the end from there. There are no "dead ends" let's say.
 # So basically the shortest path from the start to the end is equal to the number of "." + 1 :)
-# Lesso learned: for hard problems, read the problem statement carefully!
+# Lesson learned: for hard problems, read the problem statement carefully!
+
 def bfs(start, end, grid):
 	x,y = start
 	m = len(grid)
@@ -32,13 +33,14 @@ def bfs(start, end, grid):
 				dists[x+dx][y+dy] = distance+1
 	return dists
 
+
 # part 1
 # def search(start, end, grid, dists):
 # 	m = len(grid)
 # 	n = len(grid[0])
 # 	saved = []
 # 	for i in range(m):
-# 		for j in range(n):			
+# 		for j in range(n):
 # 			current = dists[i][j]
 # 			print(current)
 # 			if grid[i][j] == "#" or current == math.inf: continue

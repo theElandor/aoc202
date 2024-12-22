@@ -1,0 +1,21 @@
+['029A', '980A', '179A', '456A', '379A']
+finlen:68 A029A 
+ <A^A>^^AvvvA 
+ v<<A>>^A<A>AvA<^AA>Av<AAA>^A 
+ v<A<AA>>^AvAA<^A>Av<<A>>^AvA^Av<A>^Av<<A>^A>AAvA^Av<A<A>>^AAAvA<^A>A
+finlen:60 A980A 
+ ^^^A<AvvvA>A 
+ <AAA>Av<<A>>^Av<AAA>^AvA^A 
+ v<<A>>^AAAvA^Av<A<AA>>^AvAA<^A>Av<A<A>>^AAAvA<^A>Av<A>^A<A>A
+finlen:76 A179A 
+ <^<A^^A>>AvvvA 
+ v<<A>^Av<A>>^A<AA>AvAA^Av<AAA>^A 
+ v<A<AA>>^AvA<^A>Av<A<A>>^AvAA<^A>Av<<A>>^AAvA^Av<A>^AA<A>Av<A<A>>^AAAvA<^A>A
+finlen:74 A456A 
+ <^<^A>A>AvvA 
+ v<<A>^Av<A>^A>AvA^AvA^Av<AA>^A 
+ v<A<AA>>^AvA<^A>Av<A<A>>^AvA<^A>AvA^Av<A>^A<A>Av<A>^A<A>Av<A<A>>^AAvA<^A>A
+finlen:64 A379A 
+ ^A<<^^A>>AvvvA 
+ <A>Av<<AA>^AA>AvAA^Av<AAA>^A 
+ v<<A>>^AvA^Av<A<AA>>^AAvA<^A>AAvA^Av<A>^AA<A>Av<A<A>>^AAAvA<^A>A
