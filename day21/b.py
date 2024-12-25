@@ -1,7 +1,8 @@
 import sys
-from collections import deque
 from heapq import heappop, heappush
-from functools import cache
+memo = {}
+# this one was a pain.
+# Very hard to visualize and weird recursion scheme.
 directions = [(0,1), (1,0), (0,-1), (-1,0)]
 mapping = {(1,0):"v", (0,1):">", (0,-1):"<", (-1,0):"^"}
 numeric = ["7 8 9".split(),"4 5 6".split(),"1 2 3".split(),"_ 0 A".split()]
@@ -34,16 +35,15 @@ d_numeric = get_paths(numeric)
 d_directional = get_paths(directional)
 
 
-def solve(sequence:str, level:int) -> int:	
-	if level == 0: return len(sequence)	
-	if any([x.isdigit() for x in sequence]):
-		sp = d_numeric
-	else:
-		sp = d_directional
+def solve(sequence:str, level:int, t:int) -> int:
+	if (sequence, level) in memo: return memo[(sequence, level)]
+	if level == 0: return len(sequence)
+	sp = d_numeric if level == t else d_directional
 	l = 0
 	for x,y in zip("A"+sequence, sequence):
-		possibilities = [solve(sub+"A", level-1) for sub in sp[(x,y)]]
+		possibilities = [solve(sub+"A", level-1,t) for sub in sp[(x,y)]]
 		l += min(possibilities)
+	memo[(sequence, level)] = l
 	return l
 		
 def print_pad(grid):
@@ -56,15 +56,10 @@ def print_pad(grid):
 filename = sys.argv[1]
 with open(filename) as f:
 	codes = f.read().splitlines()
-	depth = 3
+	depth = 26
 	# pre compute all possible shortest paths
 	tot = 0
 	for c in codes:
-		n = solve(c, depth)
+		n = solve(c, depth, depth)
 		tot += n * int("".join([x for x in c if x.isdigit()]))
 	print(tot)
-
-
-# >>> a = product(["v>", ">v"], ["^<", "<^"])
-# >>> list(a)
-# [('v>', '^<'), ('v>', '<^'), ('>v', '^<'), ('>v', '<^')]
